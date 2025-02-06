@@ -1,1 +1,2 @@
+"did change in feature file for using pull ...to loccal repo"
 "creating file devfeature.txt in feature" 
